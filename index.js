@@ -6,6 +6,7 @@ const { ApolloServerPluginLandingPageGraphQLPlayground } = require("apollo-serve
 const server = new ApolloServer({
   typeDefs,
   resolvers,
+  introspection: true,
   plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
 });
 
