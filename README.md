@@ -91,7 +91,5 @@ The server starts at http://localhost:4000/
 
 Aravinda Siva – [LinkedIn](https://www.linkedin.com/in/aravindasiva/) – [aravindcva@hotmail.com](mailto:aravindcva@hotmail.com)
 
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license. 
-See ``LICENSE`` for more information.
 
 [https://github.com/aravindasiva](https://github.com/aravindasiva)
